@@ -1,0 +1,1 @@
+本项目以scrapy库爬取,只抓取odd类名ip，以json方式存储。
